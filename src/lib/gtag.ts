@@ -11,7 +11,7 @@ export interface GtagEvent {
   value?: number;
 }
 
-const DEFAULT_GA_ID = "G-ZRP4M7BYQX";
+const DEFAULT_GA_ID = "G-JBJ7MM0HWJ";
 
 /**
  * Returns the configured GA measurement ID with a safe fallback.
