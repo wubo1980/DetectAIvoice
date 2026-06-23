@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Script from "next/script";
 import type { ReactNode } from "react";
+import { Analytics } from "@vercel/analytics/next";
 
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
@@ -63,6 +64,7 @@ export default function RootLayout({ children }: RootLayoutProps): JSX.Element {
           <main className="flex-1">{children}</main>
           <Footer />
         </div>
+        <Analytics />
       </body>
     </html>
   );
