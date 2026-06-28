@@ -49,6 +49,11 @@ export const siteConfig = {
       slug: "monthly-report",
       name: "Monthly Reports",
       description: "Monthly voice fraud landscape updates."
+    },
+    {
+      slug: "legal",
+      name: "Legal & Regulations",
+      description: "Deepfake laws, regulations, and policy updates."
     }
   ] satisfies Category[],
   navigation: [

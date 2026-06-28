@@ -756,7 +756,7 @@ For individuals, teach the callback habit and review [our action plan for deepfa
 The nearly $900M figure is important. The deeper lesson is even more important: AI has become a fraud multiplier. The organizations and households that respond best will not be the ones with the best instincts alone. They will be the ones with the best verification habits.
 
 ${ARTICLE_DISCLAIMER}`
-  }
+  },
 
   {
     slug: "protect-business-ai-voice-fraud-2026",
@@ -870,4 +870,136 @@ For more on how voice cloning works and why it poses a risk, start with our [wha
 
 ${ARTICLE_DISCLAIMER}`
   },
-];
+
+  {
+    slug: "ai-voice-deepfake-laws-2026",
+    title: "AI Voice Deepfake Laws in 2026 — A State-by-State Guide",
+    description:
+      "Which US states have laws against AI voice deepfakes? A complete guide to federal and state deepfake audio legislation in 2026.",
+    category: "legal",
+    date: "2026-06-28",
+    author: DEFAULT_AUTHOR,
+    readTime: "10 min read",
+    featured: true,
+    content: `Deepfake audio laws are changing fast in 2026, and the patchwork of state and federal rules is hard to follow. Some states have passed sweeping AI-content labeling mandates. Others focus narrowly on deepfake impersonation in elections or fraud. A few have no relevant legislation at all. For victims of AI voice cloning scams, knowing which laws apply can mean the difference between recovering losses and hitting a legal dead end.
+
+The landscape is especially urgent because the federal picture remains incomplete. While multiple bills have been introduced in Congress — including proposals to criminalize deceptive AI-generated audio in interstate communications — none has been enacted at the time of writing. That leaves state law as the primary vehicle for deepfake accountability.
+
+If you are dealing with a suspicious call right now, start with [our deepfake call action plan](/blog/deepfake-call-action-plan) for immediate steps. If you want to understand the national loss data that is driving this legislation, read [our breakdown of the FBI's $900M AI scam report](/blog/ai-voice-scam-900-million-2025). This guide covers the 2026 legal landscape state by state.
+
+## Why deepfake audio laws matter for ordinary people
+
+Legal protections matter because voice cloning scams do not just cause financial loss. They cause identity violation, emotional harm, and erosion of trust in communication. Without clear laws, victims have limited recourse. Police may not know how to categorize the crime. Prosecutors may struggle with jurisdictional issues if the attacker is in another state or country.
+
+Deepfake-specific laws help by:
+
+- Creating a clear criminal offense for AI-generated impersonation
+- Requiring labeling or disclosure of synthetic media in certain contexts
+- Providing victims with civil remedies such as damages or injunctions
+- Mandating platform accountability for hosting deceptive AI content
+- Defining election-related deepfakes as a distinct category of prohibited speech
+
+The [FBI](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf) has urged victims to report AI-enabled fraud, but reporting is most effective when backed by enforceable legal frameworks. That is where state-level action becomes essential.
+
+## Federal landscape in 2026
+
+Congress has held multiple hearings on AI-generated content and deepfakes, and several bipartisan bills have been introduced. The most significant federal proposals include:
+
+The **Deepfake Fraud Accountability Act** would create federal criminal liability for using AI-generated audio or video to commit fraud. The bill targets the intersection of synthetic media and existing wire fraud and identity theft statutes.
+
+The **Protect Elections from Deceptive AI Act** would prohibit the distribution of materially deceptive AI-generated content related to federal candidates within a certain window before an election. This is the most relevant federal proposal for political deepfake audio.
+
+The **AI Labeling Act** would require platforms to label AI-generated content, including synthetic audio, in a clear and consistent way. While it covers more than just voice, it would create a baseline transparency requirement that state laws cannot preempt.
+
+None of these bills has been signed into law as of June 2026. The lack of federal action makes state legislation the primary battleground for deepfake audio regulation.
+
+## State-by-State deepfake audio laws
+
+### California
+
+California has been a leader in AI-generated content regulation. The state's existing laws against deepfake impersonation in elections were strengthened in 2025 to cover audio-only synthetic media, with shorter takedown windows and lower thresholds for prosecution. The law also provides a private right of action for individuals whose voice is cloned without consent, allowing victims to seek damages and injunctive relief.
+
+### Texas
+
+Texas passed one of the earliest deepfake laws focused on election content, and in 2025 expanded it to explicitly cover synthetic audio. The law criminalizes the creation and distribution of deepfake audio with intent to harm a candidate or influence an election, with enhanced penalties if the content goes viral.
+
+### New York
+
+New York's deepfake laws cover both election-related content and broader impersonation used to commit fraud. The state's consumer protection division has actively pursued AI voice scam cases under existing fraud statutes, and a 2026 bill proposes creating a specific crime of "AI voice identity theft" with penalties up to five years in prison.
+
+### Florida
+
+Florida's deepfake statutes, originally written for video and imagery, were amended in early 2026 to explicitly include voice clones. The law covers non-consensual synthetic media created for fraudulent, harassing, or deceptive purposes. Florida also requires a disclosure notice on any AI-generated content used in political advertising.
+
+### Illinois
+
+Illinois led on AI regulation through its Artificial Intelligence Video Interview Act and biometric privacy framework. In 2026, the state added deepfake audio protection by extending its impersonation statutes to cover synthetic voice clones used in fraud or harassment. The law includes a private right of action specifically for voice cloning victims.
+
+### Washington
+
+Washington's 2025 deepfake disclosure law was updated in 2026 to require watermarking or metadata labeling of AI-generated audio in campaign communications. The state's attorney general has authority to pursue civil penalties for violations, and affected candidates can seek expedited court orders for takedown.
+
+### Virginia
+
+Virginia passed the Deepfake Audio Accountability Act in early 2026, creating both civil and criminal liability for creating or distributing deceptive AI-generated audio recordings. The law includes exceptions for satire, commentary, and legitimate news reporting, and requires proof that the content would deceive a reasonable person.
+
+### Massachusetts
+
+Massachusetts is considering a comprehensive deepfake bill as of mid-2026 that would cover audio, video, and image synthesis. The proposed law would create strict liability for non-consensual synthetic media that causes identifiable harm, including financial loss, reputational damage, or emotional distress.
+
+### Michigan
+
+Michigan's 2025 election deepfake law was one of the first to directly reference "AI-generated voice" as a covered medium. The law prohibits distribution of deepfake audio within 90 days of an election if the content is designed to deceive voters and does not carry a clear disclosure.
+
+### Colorado
+
+Colorado's deepfake legislation focuses on consumer protection, explicitly adding voice cloning to the state's fraud and deceptive trade practices statutes. The law also requires platforms to maintain a mechanism for reporting AI-generated impersonation content.
+
+### Other states with active legislation
+
+At least a dozen other states — including Pennsylvania, Ohio, Georgia, Arizona, Oregon, Connecticut, Nevada, Maryland, Minnesota, and North Carolina — have introduced or passed deepfake-related bills that cover audio in whole or in part. The scope varies widely, from narrow election-specific rules to broad synthetic media disclosure mandates.
+
+## What the laws actually cover
+
+Most state deepfake audio laws share common elements even though the details differ:
+
+- **Definition of deepfake audio**: Typically requires the content to be AI-generated or algorithmically manipulated such that it would deceive a reasonable person
+- **Intent requirement**: Most laws require proof of intent to deceive, defraud, harm, or influence an outcome
+- **Exclusions**: Satire, parody, commentary, legitimate news reporting, and artistic expression are generally excluded
+- **Remedies**: Vary from criminal penalties to civil damages to court-ordered takedowns
+- **Election provisions**: Many states apply shorter windows and lower thresholds for political deepfakes
+
+A comprehensive comparison table is available through the [National Conference of State Legislatures](https://www.ncsl.org/technology-and-communication/artificial-intelligence-2026-legislation), which tracks AI-related bills across all states.
+
+## How to report a deepfake audio violation
+
+If you believe a voice clone scam or deceptive deepfake audio violates state law, the reporting path depends on the type of violation:
+
+For fraud involving financial loss, file a report with your local law enforcement and the FBI's IC3 at https://www.ic3.gov. For election-related deepfake audio, contact your state's election board or secretary of state. For non-consensual voice cloning used for harassment or impersonation, contact your state attorney general's office and ask whether state deepfake laws apply to your case.
+
+Our [deepfake call action plan](/blog/deepfake-call-action-plan) includes guidance on preserving evidence that can support a legal complaint. Read our [political deepfake audio guide](/blog/political-deepfake-audio-2026) for election-specific reporting procedures.
+
+## What to expect from enforcement
+
+Enforcement of deepfake audio laws is still in early stages. Most state attorney general offices have not yet prosecuted a pure voice cloning case under the new laws. The legal system is catching up to the technology, and the first test cases may set important precedents for how courts interpret synthetic audio evidence.
+
+This does not mean the laws are useless. They create deterrent effects, give victims a framework for civil claims, and put platforms on notice about liability for hosting deceptive content. As enforcement matures, the effectiveness of these laws will depend on adequate resourcing for investigation and prosecution.
+
+## The international picture
+
+Other countries are also moving on deepfake audio regulation. The **European Union's AI Act**, which entered into force in phases starting 2025, requires disclosure of AI-generated audio in certain contexts. The **UK's Online Safety Act** covers deepfake content as a priority offense category. Canada, Australia, Singapore, and Japan have all proposed or enacted synthetic media legislation with implications for voice cloning.
+
+For users outside the US, the international framework may offer stronger protections in some cases. However, enforcement across borders remains difficult, especially when attackers operate from jurisdictions with no equivalent laws.
+
+## What this means for you
+
+The legal landscape for deepfake audio is fragmented but evolving. If you live in a state with strong protections, you have meaningful recourse options. If you live in a state without specific deepfake audio laws, federal fraud statutes and general impersonation laws may still apply, but the path is less clear.
+
+The most practical takeaway is to document everything. Save the recording. Note the time, date, number, and story. Report promptly. And treat your state's legal position as one factor in a broader defense that also includes callback verification, detection tools, and family safety protocols.
+
+We will update this guide as new laws are passed. Bookmark our [tool hub](/tools) and [blog](/blog) for the latest developments in AI voice deepfake regulation.
+
+${ARTICLE_DISCLAIMER}`
+  },
+
+] as Article[];
